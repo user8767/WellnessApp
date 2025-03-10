@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+        <string name="day_1">Day 1</string>
+        <string name="title_1">Start Your Day with a Smile</string>
+        <string name="description_1">Begin your day by smiling at yourself in the mirror. A positive mindset can make a big difference!</string>
+
+        <string name="day_2">Day 2</string>
+        <string name="title_2">Hydration is Key</string>
+        <string name="description_2">Drink at least 8 glasses of water today. Staying hydrated is crucial for overall wellness.</string>
+
+        <string name="day_3">Day 3</string>
+        <string name="title_3">Morning Stretch</string>
+        <string name="description_3">Spend 10 minutes stretching in the morning. It helps wake up your muscles and improve flexibility.</string>
+
+        <string name="day_4">Day 4</string>
+        <string name="title_4">Healthy Breakfast</string>
+        <string name="description_4">Enjoy a nutritious breakfast to fuel your day. Include fruits, whole grains, and protein.</string>
+
+        <string name="day_5">Day 5</string>
+        <string name="title_5">Mindful Breathing</string>
+        <string name="description_5">Take 5 minutes to practice mindful breathing. Focus on your breath to calm your mind.</string>
+
+        <string name="day_6">Day 6</string>
+        <string name="title_6">Outdoor Walk</string>
+        <string name="description_6">Take a 20-minute walk outside. Fresh air and nature can boost your mood and energy levels.</string>
+
+        <string name="day_7">Day 7</string>
+        <string name="title_7">Gratitude Journal</string>
+        <string name="description_7">Write down three things you’re grateful for today. Reflecting on positive aspects can improve your outlook.</string>
+
+        <string name="day_8">Day 8</string>
+        <string name="title_8">Healthy Snack</string>
+        <string name="description_8">Choose a healthy snack, like fruits or nuts. Small changes in diet can make a big impact.</string>
+
+        <string name="day_9">Day 9</string>
+        <string name="title_9">Social Connection</string>
+        <string name="description_9">Reach out to a friend or family member. Social connections are important for emotional well-being.</string>
+
+        <string name="day_10">Day 10</string>
+        <string name="title_10">Meditation</string>
+        <string name="description_10">Spend 10 minutes meditating. It helps reduce stress and increase mindfulness.</string>
+
+        <string name="day_11">Day 11</string>
+        <string name="title_11">Read a Book</string>
+        <string name="description_11">Read a few chapters of a book. It can be relaxing and mentally stimulating.</string>
+
+        <string name="day_12">Day 12</string>
+        <string name="title_12">Digital Detox</string>
+        <string name="description_12">Take a break from screens for an hour. It helps reduce eye strain and improves sleep quality.</string>
+
+        <string name="day_13">Day 13</string>
+        <string name="title_13">Creative Outlet</string>
+        <string name="description_13">Engage in a creative activity like drawing, painting, or writing. It can be therapeutic and fun.</string>
+
+        <string name="day_14">Day 14</string>
+        <string name="title_14">Healthy Dinner</string>
+        <string name="description_14">Prepare a balanced and healthy dinner. Include a variety of vegetables, lean protein, and whole grains.</string>
+
+        <string name="day_15">Day 15</string>
+        <string name="title_15">Early Bedtime</string>
+        <string name="description_15">Go to bed an hour earlier than usual. A good nights sleep is essential for overall health.</string>
+
+        <string name="day_16">Day 16</string>
+        <string name="title_16">Nature Appreciation</string>
+        <string name="description_16">Spend time in nature. Take a walk in a park or simply sit outside and enjoy the fresh air.</string>
+
+        <string name="day_17">Day 17</string>
+        <string name="title_17">Positive Affirmations</string>
+        <string name="description_17">Practice positive affirmations. Repeat encouraging statements to yourself to boost self-confidence.</string>
+
+        <string name="day_18">Day 18</string>
+        <string name="title_18">Learn Something New</string>
+        <string name="description_18">Dedicate time to learning a new skill or hobby. It keeps your mind sharp and engaged.</string>
+
+        <string name="day_19">Day 19</string>
+        <string name="title_19">Volunteer</string>
+        <string name="description_19">Spend time volunteering or helping someone in need. Giving back is rewarding and fulfilling.</string>
+
+        <string name="day_20">Day 20</string>
+        <string name="title_20">Declutter</string>
+        <string name="description_20">Organize and declutter a small area of your home. A tidy space can reduce stress and increase productivity.</string>
+
+        <string name="day_21">Day 21</string>
+        <string name="title_21">Cook a New Recipe</string>
+        <string name="description_21">Try cooking a new and healthy recipe. Experimenting in the kitchen can be fun and nutritious.</string>
+
+        <string name="day_22">Day 22</string>
+        <string name="title_22">Fitness Routine</string>
+        <string name="description_22">Start a simple fitness routine. Even a few minutes of exercise can boost your energy and mood.</string>
+
+        <string name="day_23">Day 23</string>
+        <string name="title_23">Mindful Eating</string>
+        <string name="description_23">Practice mindful eating. Focus on the taste, texture, and enjoyment of your food.</string>
+
+        <string name="day_24">Day 24</string>
+        <string name="title_24">Journal</string>
+        <string name="description_24">Spend time journaling your thoughts and feelings. It can be a great way to reflect and release emotions.</string>
+
+        <string name="day_25">Day 25</string>
+        <string name="title_25">Music Therapy</string>
+        <string name="description_25">Listen to your favorite music. It can be uplifting and improve your mood.</string>
+
+        <string name="day_26">Day 26</string>
+        <string name="title_26">Mindful Movement</string>
+        <string name="description_26">Engage in mindful movement like yoga or tai chi. It helps improve flexibility and reduce stress.</string>
+
+        <string name="day_27">Day 27</string>
+        <string name="title_27">Disconnect and Reconnect</string>
+        <string name="description_27">Disconnect from technology for a while and reconnect with yourself or loved ones.</string>
+
+        <string name="day_28">Day 28</string>
+        <string name="title_28">Spa Day at Home</string>
+        <string name="description_28">Create a spa experience at home. Pamper yourself with a relaxing bath or facial.</string>
+
+        <string name="day_29">Day 29</string>
+        <string name="title_29">Goal Setting</string>
+        <string name="description_29">Set some personal goals for the future. Having clear objectives can motivate and inspire you.</string>
+
+        <string name="day_30">Day 30</string>
+        <string name="title_30">Reflect and Celebrate</string>
+        <string name="description_30">Reflect on your wellness journey and celebrate your achievements. Youve made great progress!</string>
+    </resources>
+
